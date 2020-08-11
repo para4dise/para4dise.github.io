@@ -10,14 +10,101 @@
     <id>https://para4dise.github.io</id>
 
     <entry>
-        <title>Michelle&#x27;s Art Story</title>
+        <title>Story #01</title>
         <author>
             <name>PP</name>
         </author>
-        <link href="https://para4dise.github.io/michelles-art-story.html"/>
-        <id>https://para4dise.github.io/michelles-art-story.html</id>
+        <link href="https://para4dise.github.io/story-01/"/>
+        <id>https://para4dise.github.io/story-01/</id>
 
-        <updated>2020-08-11T11:13:09-04:00</updated>
+        <updated>2020-08-11T17:01:12-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Test Test Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test Test Test</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Art Story #2</title>
+        <author>
+            <name>PP</name>
+        </author>
+        <link href="https://para4dise.github.io/art-story-2/"/>
+        <id>https://para4dise.github.io/art-story-2/</id>
+
+        <updated>2020-08-11T17:01:12-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://para4dise.github.io/media/posts/3/SEOUL.gif" alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Michelles art 3</title>
+        <author>
+            <name>PP</name>
+        </author>
+        <link href="https://para4dise.github.io/michelles-art-3/"/>
+        <id>https://para4dise.github.io/michelles-art-3/</id>
+
+        <updated>2020-08-11T17:01:12-04:00</updated>
+            <summary>
+                <![CDATA[
+                    onetwothreefour onetwothreefour
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>one
+<ul>
+<li>two
+<ul>
+<li>three
+<ul>
+<li>four</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<ol>
+<li>one
+<ol>
+<li>two
+<ol>
+<li>three
+<ol>
+<li>four</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<figure class="post__image"><img loading="lazy"  src="https://para4dise.github.io/media/posts/2/NY.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://para4dise.github.io/media/posts/2/responsive/NY-xs.png 300w ,https://para4dise.github.io/media/posts/2/responsive/NY-sm.png 480w ,https://para4dise.github.io/media/posts/2/responsive/NY-md.png 768w ,https://para4dise.github.io/media/posts/2/responsive/NY-lg.png 1024w ,https://para4dise.github.io/media/posts/2/responsive/NY-xl.png 1360w ,https://para4dise.github.io/media/posts/2/responsive/NY-2xl.png 1600w"  alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Michelle&#x27;s Art Story #4</title>
+        <author>
+            <name>PP</name>
+        </author>
+        <link href="https://para4dise.github.io/michelles-art-story/"/>
+        <id>https://para4dise.github.io/michelles-art-story/</id>
+
+        <updated>2020-08-11T17:01:12-04:00</updated>
             <summary>
                 <![CDATA[
                     [미쉘쌤의미술이야기 04] 그리스 미술 
@@ -26,7 +113,7 @@
         <content type="html">
             <![CDATA[
                 <p><a href="https://youtu.be/WFu4HIZdzUI">[미쉘쌤의미술이야기 04] 그리스 미술</a></p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/WFu4HIZdzUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/WFu4HIZdzUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
 <p> </p>
             ]]>
         </content>
