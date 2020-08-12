@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>musee.kr</title>
-    <link href="https://para4dise.github.io/feed.xml" rel="self" />
-    <link href="https://para4dise.github.io" />
+    <link href="https://gameondemand.com/feed.xml" rel="self" />
+    <link href="https://gameondemand.com" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>PP</name>
     </author>
-    <id>https://para4dise.github.io</id>
+    <id>https://gameondemand.com</id>
 
     <entry>
         <title>Story #01</title>
         <author>
             <name>PP</name>
         </author>
-        <link href="https://para4dise.github.io/story-01/"/>
-        <id>https://para4dise.github.io/story-01/</id>
+        <link href="https://gameondemand.com/story-01/"/>
+        <id>https://gameondemand.com/story-01/</id>
+            <category term="artstory"/>
 
-        <updated>2020-08-11T17:01:12-04:00</updated>
+        <updated>2020-08-11T20:33:17-04:00</updated>
             <summary>
                 <![CDATA[
                     Test Test Test
@@ -30,30 +31,38 @@
         </content>
     </entry>
     <entry>
-        <title>Art Story #2</title>
+        <title>Exhibition #5</title>
         <author>
             <name>PP</name>
         </author>
-        <link href="https://para4dise.github.io/art-story-2/"/>
-        <id>https://para4dise.github.io/art-story-2/</id>
+        <link href="https://gameondemand.com/michelles-art-story-2/"/>
+        <id>https://gameondemand.com/michelles-art-story-2/</id>
+            <category term="exhibition"/>
 
-        <updated>2020-08-11T17:01:12-04:00</updated>
-            <summary></summary>
+        <updated>2020-08-11T20:33:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    [미쉘쌤의미술이야기 04] 그리스 미술 
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://para4dise.github.io/media/posts/3/SEOUL.gif" alt=""></figure>
+                <p><a href="https://youtu.be/WFu4HIZdzUI">[미쉘쌤의미술이야기 04] 그리스 미술</a></p>
+<p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/WFu4HIZdzUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Michelles art 3</title>
+        <title>Exhibition #6</title>
         <author>
             <name>PP</name>
         </author>
-        <link href="https://para4dise.github.io/michelles-art-3/"/>
-        <id>https://para4dise.github.io/michelles-art-3/</id>
+        <link href="https://gameondemand.com/michelles-art-2/"/>
+        <id>https://gameondemand.com/michelles-art-2/</id>
+            <category term="exhibition"/>
 
-        <updated>2020-08-11T17:01:12-04:00</updated>
+        <updated>2020-08-11T20:33:17-04:00</updated>
             <summary>
                 <![CDATA[
                     onetwothreefour onetwothreefour
@@ -92,7 +101,93 @@
 </ol>
 </li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://para4dise.github.io/media/posts/2/NY.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://para4dise.github.io/media/posts/2/responsive/NY-xs.png 300w ,https://para4dise.github.io/media/posts/2/responsive/NY-sm.png 480w ,https://para4dise.github.io/media/posts/2/responsive/NY-md.png 768w ,https://para4dise.github.io/media/posts/2/responsive/NY-lg.png 1024w ,https://para4dise.github.io/media/posts/2/responsive/NY-xl.png 1360w ,https://para4dise.github.io/media/posts/2/responsive/NY-2xl.png 1600w"  alt=""></figure>
+<figure class="post__image"><img loading="lazy"  src="https://gameondemand.com/media/posts/5/NY.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gameondemand.com/media/posts/5/responsive/NY-xs.png 300w ,https://gameondemand.com/media/posts/5/responsive/NY-sm.png 480w ,https://gameondemand.com/media/posts/5/responsive/NY-md.png 768w ,https://gameondemand.com/media/posts/5/responsive/NY-lg.png 1024w"  alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Art Story #7</title>
+        <author>
+            <name>PP</name>
+        </author>
+        <link href="https://gameondemand.com/art-story-3/"/>
+        <id>https://gameondemand.com/art-story-3/</id>
+            <category term="artstory"/>
+
+        <updated>2020-08-11T20:33:17-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://gameondemand.com/media/posts/4/SEOUL.gif" alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Art Story #2</title>
+        <author>
+            <name>PP</name>
+        </author>
+        <link href="https://gameondemand.com/art-story-2/"/>
+        <id>https://gameondemand.com/art-story-2/</id>
+            <category term="artstory"/>
+
+        <updated>2020-08-11T20:33:17-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://gameondemand.com/media/posts/3/SEOUL.gif" alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Michelles art 3</title>
+        <author>
+            <name>PP</name>
+        </author>
+        <link href="https://gameondemand.com/michelles-art-3/"/>
+        <id>https://gameondemand.com/michelles-art-3/</id>
+            <category term="artists"/>
+
+        <updated>2020-08-11T20:33:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    onetwothreefour onetwothreefour
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>one
+<ul>
+<li>two
+<ul>
+<li>three
+<ul>
+<li>four</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<ol>
+<li>one
+<ol>
+<li>two
+<ol>
+<li>three
+<ol>
+<li>four</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<figure class="post__image"><img loading="lazy"  src="https://gameondemand.com/media/posts/2/NY.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gameondemand.com/media/posts/2/responsive/NY-xs.png 300w ,https://gameondemand.com/media/posts/2/responsive/NY-sm.png 480w ,https://gameondemand.com/media/posts/2/responsive/NY-md.png 768w ,https://gameondemand.com/media/posts/2/responsive/NY-lg.png 1024w"  alt=""></figure>
             ]]>
         </content>
     </entry>
@@ -101,10 +196,11 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://para4dise.github.io/michelles-art-story/"/>
-        <id>https://para4dise.github.io/michelles-art-story/</id>
+        <link href="https://gameondemand.com/michelles-art-story/"/>
+        <id>https://gameondemand.com/michelles-art-story/</id>
+            <category term="artists"/>
 
-        <updated>2020-08-11T17:01:12-04:00</updated>
+        <updated>2020-08-11T20:33:17-04:00</updated>
             <summary>
                 <![CDATA[
                     [미쉘쌤의미술이야기 04] 그리스 미술 

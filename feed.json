@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "musee.kr",
     "description": "",
-    "home_page_url": "https://para4dise.github.io",
-    "feed_url": "https://para4dise.github.io/feed.json",
+    "home_page_url": "https://gameondemand.com",
+    "feed_url": "https://gameondemand.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "PP"
     },
     "items": [
         {
-            "id": "https://para4dise.github.io/story-01/",
-            "url": "https://para4dise.github.io/story-01/",
+            "id": "https://gameondemand.com/story-01/",
+            "url": "https://gameondemand.com/story-01/",
             "title": "Story #01",
             "summary": "Test Test Test",
             "content_html": "<p>Test Test Test</p>",
@@ -19,40 +19,87 @@
                 "name": "PP"
             },
             "tags": [
+                   "artstory"
             ],
-            "date_published": "2020-08-11T17:01:12-04:00",
-            "date_modified": "2020-08-11T17:01:12-04:00"
+            "date_published": "2020-08-11T20:33:17-04:00",
+            "date_modified": "2020-08-11T20:33:17-04:00"
         },
         {
-            "id": "https://para4dise.github.io/art-story-2/",
-            "url": "https://para4dise.github.io/art-story-2/",
-            "title": "Art Story #2",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://para4dise.github.io/media/posts/3/SEOUL.gif\" alt=\"\"></figure>",
+            "id": "https://gameondemand.com/michelles-art-story-2/",
+            "url": "https://gameondemand.com/michelles-art-story-2/",
+            "title": "Exhibition #5",
+            "summary": "[미쉘쌤의미술이야기 04] 그리스 미술 ",
+            "content_html": "<p><a href=\"https://youtu.be/WFu4HIZdzUI\">[미쉘쌤의미술이야기 04] 그리스 미술</a></p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WFu4HIZdzUI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>\n<p> </p>",
             "author": {
                 "name": "PP"
             },
             "tags": [
+                   "exhibition"
             ],
-            "date_published": "2020-08-11T17:01:12-04:00",
-            "date_modified": "2020-08-11T17:01:12-04:00"
+            "date_published": "2020-08-11T20:33:17-04:00",
+            "date_modified": "2020-08-11T20:33:17-04:00"
         },
         {
-            "id": "https://para4dise.github.io/michelles-art-3/",
-            "url": "https://para4dise.github.io/michelles-art-3/",
+            "id": "https://gameondemand.com/michelles-art-2/",
+            "url": "https://gameondemand.com/michelles-art-2/",
+            "title": "Exhibition #6",
+            "summary": "onetwothreefour onetwothreefour",
+            "content_html": "<ul>\n<li>one\n<ul>\n<li>two\n<ul>\n<li>three\n<ul>\n<li>four</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<ol>\n<li>one\n<ol>\n<li>two\n<ol>\n<li>three\n<ol>\n<li>four</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gameondemand.com/media/posts/5/NY.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://gameondemand.com/media/posts/5/responsive/NY-xs.png 300w ,https://gameondemand.com/media/posts/5/responsive/NY-sm.png 480w ,https://gameondemand.com/media/posts/5/responsive/NY-md.png 768w ,https://gameondemand.com/media/posts/5/responsive/NY-lg.png 1024w\"  alt=\"\"></figure>",
+            "author": {
+                "name": "PP"
+            },
+            "tags": [
+                   "exhibition"
+            ],
+            "date_published": "2020-08-11T20:33:17-04:00",
+            "date_modified": "2020-08-11T20:33:17-04:00"
+        },
+        {
+            "id": "https://gameondemand.com/art-story-3/",
+            "url": "https://gameondemand.com/art-story-3/",
+            "title": "Art Story #7",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gameondemand.com/media/posts/4/SEOUL.gif\" alt=\"\"></figure>",
+            "author": {
+                "name": "PP"
+            },
+            "tags": [
+                   "artstory"
+            ],
+            "date_published": "2020-08-11T20:33:17-04:00",
+            "date_modified": "2020-08-11T20:33:17-04:00"
+        },
+        {
+            "id": "https://gameondemand.com/art-story-2/",
+            "url": "https://gameondemand.com/art-story-2/",
+            "title": "Art Story #2",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gameondemand.com/media/posts/3/SEOUL.gif\" alt=\"\"></figure>",
+            "author": {
+                "name": "PP"
+            },
+            "tags": [
+                   "artstory"
+            ],
+            "date_published": "2020-08-11T20:33:17-04:00",
+            "date_modified": "2020-08-11T20:33:17-04:00"
+        },
+        {
+            "id": "https://gameondemand.com/michelles-art-3/",
+            "url": "https://gameondemand.com/michelles-art-3/",
             "title": "Michelles art 3",
             "summary": "onetwothreefour onetwothreefour",
-            "content_html": "<ul>\n<li>one\n<ul>\n<li>two\n<ul>\n<li>three\n<ul>\n<li>four</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<ol>\n<li>one\n<ol>\n<li>two\n<ol>\n<li>three\n<ol>\n<li>four</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://para4dise.github.io/media/posts/2/NY.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://para4dise.github.io/media/posts/2/responsive/NY-xs.png 300w ,https://para4dise.github.io/media/posts/2/responsive/NY-sm.png 480w ,https://para4dise.github.io/media/posts/2/responsive/NY-md.png 768w ,https://para4dise.github.io/media/posts/2/responsive/NY-lg.png 1024w ,https://para4dise.github.io/media/posts/2/responsive/NY-xl.png 1360w ,https://para4dise.github.io/media/posts/2/responsive/NY-2xl.png 1600w\"  alt=\"\"></figure>",
+            "content_html": "<ul>\n<li>one\n<ul>\n<li>two\n<ul>\n<li>three\n<ul>\n<li>four</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<ol>\n<li>one\n<ol>\n<li>two\n<ol>\n<li>three\n<ol>\n<li>four</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gameondemand.com/media/posts/2/NY.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://gameondemand.com/media/posts/2/responsive/NY-xs.png 300w ,https://gameondemand.com/media/posts/2/responsive/NY-sm.png 480w ,https://gameondemand.com/media/posts/2/responsive/NY-md.png 768w ,https://gameondemand.com/media/posts/2/responsive/NY-lg.png 1024w\"  alt=\"\"></figure>",
             "author": {
                 "name": "PP"
             },
             "tags": [
+                   "artists"
             ],
-            "date_published": "2020-08-11T17:01:12-04:00",
-            "date_modified": "2020-08-11T17:01:12-04:00"
+            "date_published": "2020-08-11T20:33:17-04:00",
+            "date_modified": "2020-08-11T20:33:17-04:00"
         },
         {
-            "id": "https://para4dise.github.io/michelles-art-story/",
-            "url": "https://para4dise.github.io/michelles-art-story/",
+            "id": "https://gameondemand.com/michelles-art-story/",
+            "url": "https://gameondemand.com/michelles-art-story/",
             "title": "Michelle&#x27;s Art Story #4",
             "summary": "[미쉘쌤의미술이야기 04] 그리스 미술 ",
             "content_html": "<p><a href=\"https://youtu.be/WFu4HIZdzUI\">[미쉘쌤의미술이야기 04] 그리스 미술</a></p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WFu4HIZdzUI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>\n<p> </p>",
@@ -60,9 +107,10 @@
                 "name": "PP"
             },
             "tags": [
+                   "artists"
             ],
-            "date_published": "2020-08-11T17:01:12-04:00",
-            "date_modified": "2020-08-11T17:01:12-04:00"
+            "date_published": "2020-08-11T20:33:17-04:00",
+            "date_modified": "2020-08-11T20:33:17-04:00"
         }
     ]
 }
