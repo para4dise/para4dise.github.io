@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>musee.kr</title>
-    <link href="https://gameondemand.com/feed.xml" rel="self" />
-    <link href="https://gameondemand.com" />
+    <link href="https://musee.kr/feed.xml" rel="self" />
+    <link href="https://musee.kr" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>PP</name>
     </author>
-    <id>https://gameondemand.com</id>
+    <id>https://musee.kr</id>
 
     <entry>
         <title>About Us</title>
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/about-us/"/>
-        <id>https://gameondemand.com/about-us/</id>
+        <link href="https://musee.kr/about-us/"/>
+        <id>https://musee.kr/about-us/</id>
+            <category term="others"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
                     Contact Us Michelle Kim Art Consultant michelle@musee.kr Jasmine Park Project Marketing jasmine@musee.kr
@@ -37,20 +38,20 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/art-story-4/"/>
-        <id>https://gameondemand.com/art-story-4/</id>
+        <link href="https://musee.kr/art-story-04/"/>
+        <id>https://musee.kr/art-story-04/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/16/MAS-S01E04.jpg" alt="" />
+                        <img src="https://musee.kr/media/posts/16/snapshotS01E04-2.jpg" alt="" />
                     [미쉘쌤의미술이야기 04] 그리스미술 위대한 각성 초기의 그리스 미술을 살펴 보면서, 이 시대의&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/16/MAS-S01E04.jpg" alt="" />
+                    <img src="https://musee.kr/media/posts/16/snapshotS01E04-2.jpg" alt="" />
                 <h4>[미쉘쌤의미술이야기 04] 그리스미술</h4>
 <p> </p>
 <p>위대한 각성<br>초기의 그리스 미술을 살펴 보면서, 이 시대의 그리스 미술가들이 그들의 눈을 통해서<br>발견하는 위대한 각성의 여정을 따라가 볼까요?</p>
@@ -64,20 +65,20 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/art-story-3/"/>
-        <id>https://gameondemand.com/art-story-3/</id>
+        <link href="https://musee.kr/art-story-03/"/>
+        <id>https://musee.kr/art-story-03/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/4/MAS-S01E03.jpg" alt="" />
+                        <img src="https://musee.kr/media/posts/4/snapshotS01E03.jpg" alt="" />
                     [미쉘쌤의미술이야기 03] 이집트 미술 서양미술사 세번째 챕터 영원을 위한 미술 - 이집트&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/4/MAS-S01E03.jpg" alt="" />
+                    <img src="https://musee.kr/media/posts/4/snapshotS01E03.jpg" alt="" />
                 <h4>[미쉘쌤의미술이야기 03] 이집트 미술</h4>
 <p> </p>
 <p>서양미술사 세번째 챕터 영원을 위한 미술 - 이집트 미술과 메트의 덴더신전 이야기를 나눠요~</p>
@@ -91,20 +92,20 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/art-story-2/"/>
-        <id>https://gameondemand.com/art-story-2/</id>
+        <link href="https://musee.kr/art-story-02/"/>
+        <id>https://musee.kr/art-story-02/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/3/MAS-S01E02.jpg" alt="" />
+                        <img src="https://musee.kr/media/posts/3/snapshotS01E02.jpg" alt="" />
                     [미쉘쌤의미술이야기 02] 선사시대의 미술 서양미술사 첫번째 챕터, 신비에 싸인 기원 선사시대 미술에&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/3/MAS-S01E02.jpg" alt="" />
+                    <img src="https://musee.kr/media/posts/3/snapshotS01E02.jpg" alt="" />
                 <h4>[미쉘쌤의미술이야기 02] 선사시대의 미술</h4>
 <p> </p>
 <p>서양미술사 첫번째 챕터, 신비에 싸인 기원 선사시대 미술에 대한 이야기와 메트로폴리탄 뮤지엄에서 발견한 오세아니아관의 원시 미술에 대한 이야기</p>
@@ -117,20 +118,20 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/story-01/"/>
-        <id>https://gameondemand.com/story-01/</id>
+        <link href="https://musee.kr/art-story-01/"/>
+        <id>https://musee.kr/art-story-01/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/7/MAS-S01E01.jpg" alt="" />
+                        <img src="https://musee.kr/media/posts/7/snapshotS01E01.jpg" alt="" />
                     [미쉘쌤의미술이야기 01] 서양미술사 그리고 메트로폴리탄뮤지엄 미쉘쌤이 풀어가는 미술 이야기 그 첫번째 시간&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/7/MAS-S01E01.jpg" alt="" />
+                    <img src="https://musee.kr/media/posts/7/snapshotS01E01.jpg" alt="" />
                 <h4>[미쉘쌤의미술이야기 01] 서양미술사 그리고 메트로폴리탄뮤지엄</h4>
 <p> </p>
 <p>미쉘쌤이 풀어가는 미술 이야기 그 첫번째 시간</p>
@@ -143,24 +144,24 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/michelles-art-story-3/"/>
-        <id>https://gameondemand.com/michelles-art-story-3/</id>
+        <link href="https://musee.kr/exhibition-sel/"/>
+        <id>https://musee.kr/exhibition-sel/</id>
             <category term="Exhibition"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/8/SELimage-asset.gif" alt="" />
+                        <img src="https://musee.kr/media/posts/8/SELimage-asset.gif" alt="" />
                     NY Contemporary 8 @ Seoul 뉴욕 현대미술작가 8인 특별전 부 제: 지금&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/8/SELimage-asset.gif" alt="" />
+                    <img src="https://musee.kr/media/posts/8/SELimage-asset.gif" alt="" />
                 <h2 class="align-center"><strong>NY Contemporary 8 @ Seoul</strong> <br>뉴욕 현대미술작가 8인 특별전</h2>
 <h6 class="align-center"><br>부 제: 지금 , 여기 뉴욕의 동시대 미술 ‘ 바라보기’와 제대로 ‘들여다 보기’</h6>
 <h2> </h2>
-<figure class="post__image"><img loading="lazy"  src="https://gameondemand.com/media/posts/8/SELIMG_3609.gif" alt=""></figure>
+<figure class="post__image"><img loading="lazy"  src="https://musee.kr/media/posts/8/SELIMG_3609.gif" alt=""></figure>
 <p> </p>
 <h2 class="align-center"><strong>The first Call for Artists exhibition of 2016 presented by the Korean Cultural Center NY challenges audience to reflect on their lives through contemporary art</strong></h2>
 <p> </p>
@@ -183,22 +184,22 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/michelles-art-story-2/"/>
-        <id>https://gameondemand.com/michelles-art-story-2/</id>
+        <link href="https://musee.kr/exhibition-nyc/"/>
+        <id>https://musee.kr/exhibition-nyc/</id>
             <category term="Exhibition"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/6/NYimage-asset.gif" alt="" />
+                        <img src="https://musee.kr/media/posts/6/NYimage-asset.gif" alt="" />
                     STOP, UNRAVEL, ABSORBThe first Call for Artists exhibition of 2016 presented by&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/6/NYimage-asset.gif" alt="" />
+                    <img src="https://musee.kr/media/posts/6/NYimage-asset.gif" alt="" />
                 <h2 class="align-center">STOP, UNRAVEL, ABSORB</h2>
-<h2><figure class="post__image"><img loading="lazy"  src="https://gameondemand.com/media/posts/6/NY.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gameondemand.com/media/posts/6/responsive/NY-xs.png 300w ,https://gameondemand.com/media/posts/6/responsive/NY-sm.png 480w ,https://gameondemand.com/media/posts/6/responsive/NY-md.png 768w ,https://gameondemand.com/media/posts/6/responsive/NY-lg.png 1024w"  alt=""></figure></h2>
+<h2><figure class="post__image"><img loading="lazy"  src="https://musee.kr/media/posts/6/NY.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://musee.kr/media/posts/6/responsive/NY-xs.png 300w ,https://musee.kr/media/posts/6/responsive/NY-sm.png 480w ,https://musee.kr/media/posts/6/responsive/NY-md.png 768w ,https://musee.kr/media/posts/6/responsive/NY-lg.png 1024w"  alt=""></figure></h2>
 <h2 class="align-center"><strong>The first Call for Artists exhibition of 2016 presented by the Korean Cultural Center NY challenges audience to reflect on their lives through contemporary art</strong></h2>
 <p> </p>
 <p><strong>Exhibition:</strong> April 20 to May 20, 2016<br><strong>Opening Reception:</strong> April 20, 2016 at 6pm - 8pm<br><strong>Location:</strong> 460 Park Avenue 6th FL, New York, NY, 10022  <br><br>The Korean Cultural Center New York presents the 1st Call for Artists 2016 exhibition <em>STOP, UNRAVEL, ABSORB</em>, a group exhibition guest curated by Michelle Eunoak Kim and selected by the Korean Cultural Center New York for the official 'Call for Artists 2016.' The contemporary pieces selected for the exhibition is an aim to reveal the very essence of what art means to the young artists – to observe the world and life that is happening around us, to unravel the complexities of space and time, and to absorb the experience as a whole. <br><br>The exhibition brings together eight creative young artists: Bonjeong Koo, Inyoung Seung, Pablo Alvarez, Hojung Jang, Yikwon Peter Kim, Youngsu Lee, Bosuk Hur, Hyunjoo Yeun and their contemporary pieces that span various platforms of art including paintings, pen drawings, collages, and architectural installation pieces. <br><br>The three words of the title—stop, unravel, and absorb—represent the processes of finding the fundamental meaning of life. The artists, from all different corners of the world, take a moment to think, recognize, and learn what their unique lives mean in order to recreate their experiences through art. In this exhibition, viewers are given a chance to reflect on the contemporary artworks of the eight artists, and are challenged to stop, unravel, and absorb their own lives through art. <br><br><em>The Korean Cultural Center New York’s ‘Call for Artists’ is an annual competition that selects artists to be presented at the Gallery Korea. The Korean Cultural Center commissions internationally renowned art critics and curators as judges to select works of art of artistic excellence without boundaries. This year, the Executive Director of The Armory Show, <strong>Benjamin Genocchio</strong>, participated as one of the judges at the ‘Call for Artists 2016.’ </em></p>
@@ -210,24 +211,22 @@
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/michelles-art-2/"/>
-        <id>https://gameondemand.com/michelles-art-2/</id>
+        <link href="https://musee.kr/exhibition-sha/"/>
+        <id>https://musee.kr/exhibition-sha/</id>
             <category term="Exhibition"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/5/SHA.jpg" alt="" />
+                        <img src="https://musee.kr/media/posts/5/SHA.jpg" alt="" />
                      Exhibition: April 20 to May 20, 2016 Opening Reception: April 20, 2016 at&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/5/SHA.jpg" alt="" />
-                <p class="align-center"> </p>
-<figure class="post__image"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://gameondemand.com/media/posts/5/SHNY8.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gameondemand.com/media/posts/5/responsive/SHNY8-xs.jpg 300w ,https://gameondemand.com/media/posts/5/responsive/SHNY8-sm.jpg 480w ,https://gameondemand.com/media/posts/5/responsive/SHNY8-md.jpg 768w ,https://gameondemand.com/media/posts/5/responsive/SHNY8-lg.jpg 1024w"  alt=""></figure>
-<p class="align-center"> </p>
-<figure class="post__image"><img loading="lazy"  src="https://gameondemand.com/media/posts/5/SHimage-asset.gif" alt=""></figure>
+                    <img src="https://musee.kr/media/posts/5/SHA.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://musee.kr/media/posts/5/SHNY8-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://musee.kr/media/posts/5/responsive/SHNY8-2-xs.jpg 300w ,https://musee.kr/media/posts/5/responsive/SHNY8-2-sm.jpg 480w ,https://musee.kr/media/posts/5/responsive/SHNY8-2-md.jpg 768w ,https://musee.kr/media/posts/5/responsive/SHNY8-2-lg.jpg 1024w"  alt=""></figure>
+<figure class="post__image"><img loading="lazy"  src="https://musee.kr/media/posts/5/SHimage-asset.gif" alt=""></figure>
 <p> </p>
 <p class=""><strong>Exhibition:</strong> April 20 to May 20, 2016<br><strong>Opening Reception:</strong> April 20, 2016 at 6pm - 8pm<br><strong>Location:</strong> Huizhi Building, 396 North Caoxi Rd., Shanghai, PRC<br><strong>Curated By:</strong> Michelle Kim</p>
 <p class=""><br>在当代美术的中心城市——纽约，你可以亲身体验和感受到当代美术的所有体裁。希望通过本次展览，能将艺术家们在这里的故事与中国最重要的文化城市——上海的朋友们一同分享，同时也期待能够引起不一样的共鸣。在近现代史的漩涡中，存活下来的上海，正向着新的时期跃进。旧事物与新事物共存，充满和谐感的空间，这个充满魅力的城市是承载现代美术、表现现代美术、激发共鸣最好的选择。都说当代美术就像我们的生活一样，复杂难解。特别是对生活在纽约、上海这样的大都市的人们来说。希望通过本次展览，能将观览的乐趣带给大家，并为大家提供了解与积极接触当代美术的机会</p>
@@ -236,34 +235,121 @@
         </content>
     </entry>
     <entry>
-        <title>BONJEONG KOO</title>
+        <title>UN-HEE PARK</title>
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/michelles-art-3/"/>
-        <id>https://gameondemand.com/michelles-art-3/</id>
+        <link href="https://musee.kr/artisit-uhp/"/>
+        <id>https://musee.kr/artisit-uhp/</id>
             <category term="Artists"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/2/bjk-2.gif" alt="" />
-                    구본정/ BONJEONG KOO 작가는 구상회화의 형식을 빌어서 삶과 예술의 본질을 진지하게 파고든다.
+                        <img src="https://musee.kr/media/posts/15/UHP.gif" alt="" />
+                    Phases of the Moon 03 (2012) Archival Pigment Prin 88.9 × 101.6&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/2/bjk-2.gif" alt="" />
-                <p class="align-left"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">구본정/ BONJEONG KOO </strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">작가는 구상회화의 형식을 빌어서 삶과 예술의 본질을 진지하게 파고든다. 대담하고 능란한 붓질 너머로 작가가 천착해온 의미있는 고민과 성찰의 시간이 그대로 우리에게 다가온다. 낯설고도 상이한 이미지들은 서로 분리되기도 하고 서로를 향해 팽창하고 확장되어 한편의 서사를 완성해 낸다. 섞일것 같지 않은 두 세계, 거대도시 뉴욕과 맹수를 극명하게 그리는 과정은 적자생존의 원칙만이 존재하는 서로 다른 정글을 하나의 유기적인 관계안으로 접목하는 시도이자 작가의 바람이 아닐까. 이렇게 두 세계는 절박하게 서로에게 다가서며, 유유자적 우리에게 그 시선을 향하고 있다. 맹수의 포효가 아닌 처연한 시선으로.</span></p>
-<div class="main-content" data-content-field="main-content" data-collection-id="582327d659cc6899710bfa20" data-edit-main-image="Page Banner">
-<div id="page-582327d659cc6899710bfa20" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479909231007">
+                    <img src="https://musee.kr/media/posts/15/UHP.gif" alt="" />
+                <div id="block-2f27e668d6a5c22b6c61" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<p class="align-right"><em>Phases of the Moon 03 </em>(2012)<br>Archival Pigment Prin<br>88.9 × 101.6 cm / 35x40 inches</p>
+<div id="page-body-wrapper" class="full-width">
+<div id="page-body">
+<div id="content-wrapper">
+<div id="content">
+<div class="main-content" data-content-field="main-content" data-collection-id="5823287229687f5694188cc9" data-edit-main-image="Page Banner">
+<div id="page-5823287229687f5694188cc9" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479909576709">
+<div class="row sqs-row">
+<div class="col sqs-col-12 span-12">
 <div class="row sqs-row">
 <div class="col sqs-col-10 span-10">
-<div id="block-96370d6a90fda241985a" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div id="block-944c1b7240712863c082" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-body-wrapper" class="full-width">
+<div id="page-body">
+<div id="content-wrapper">
+<div id="content">
+<div class="main-content" data-content-field="main-content" data-collection-id="582328a529687f5694188e8a" data-edit-main-image="Page Banner">
+<div id="page-582328a529687f5694188e8a" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479909982680">
+<div class="row sqs-row">
+<div class="col sqs-col-10 span-10">
+<div id="block-761c9f5e4907a8624b0d" class="sqs-block html-block sqs-block-html" data-block-type="2">
 <div class="sqs-block-content">
-<p>홍익대에서 회화 전공(BFA) ,드류 신학대 석사(MD). 한국과 미국에서'Gold Horn’(2015 미국) ‘Arrogance &amp; Prejudice’(2013 서울) 등 다수의 개인전 및 ‘Epilogue’(2015 미국) Opsis Artists Group Show (2013 한국) 등 다수의 그룹전 참여. La Mer Korea Cosmetic Co (2013 한국) Art Collaboration 을 비롯 제일모직 본사, Drew University, Paradigm Art NY, JW Marriott Hotel Seoul 등에 작품 소장</p>
-<p><strong>Bonjeong Koo</strong>’s canvas painting embodies the message of pride and prejudice by juxtaposing a street view of the concrete jungle New York City with the face of a beast in a real jungle. The seeming relationship of these two worlds has no similarity. The existence of the other is irrelevant to a continuation of each other’s lives. Thus, the indifference is captured as pride in the self, which leads to prejudice about both worlds. The juxtaposition, however, reveals a strange, organic connection between the two ‘jungles’; survival of the fittest governs the two worlds. By intersecting these worlds, Koo is comparing the world of New York, where we chase capital in the center of the world economy, to the world of fierce animals hunting prey.</p>
-<p>He received a BFA in fine arts at Hongik University, Seoul, and an MD at Drew Theological School, NJ. He opened various solo exhibitions including ‘Gold Horn’(2015, USA) ‘Arrogance &amp; Prejudice’(2013, Korea) and group exhibitions such as ‘Epilogue’(2015, USA), Opsis Artists Group Show (2013, Korea). Koo’s artworks are in the collections of La Mer Korea Cosmetic Co., Drew University, Paradigm Art NY, JW Marriott Hotel Seoul, and Cheil Industries and many others.</p>
+<div id="page-body-wrapper" class="full-width">
+<div id="page-body">
+<div id="content-wrapper">
+<div id="content">
+<div class="main-content" data-content-field="main-content" data-collection-id="582328b8725e25b750698e5b" data-edit-main-image="Page Banner">
+<div id="page-582328b8725e25b750698e5b" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479910152494">
+<div class="row sqs-row">
+<div class="col sqs-col-11 span-11">
+<div class="row sqs-row">
+<div class="col sqs-col-10 span-10">
+<div id="block-43c9cc5678143f2d788f" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<div id="page-body-wrapper" class="full-width">
+<div id="page-body">
+<div id="content-wrapper">
+<div id="content">
+<div class="main-content" data-content-field="main-content" data-collection-id="582328dd2e69cf34961fe1ff" data-edit-main-image="Page Banner">
+<div id="page-582328dd2e69cf34961fe1ff" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479910321302">
+<div class="row sqs-row">
+<div class="col sqs-col-11 span-11">
+<div class="row sqs-row">
+<div class="col sqs-col-10 span-10">
+<div id="block-2c8e6f794c0c28f56734" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<p><strong>박운희/UNHEE PARK </strong>작가는 미술관과 그곳을 방문하는 관람객 그리고 그들이 멈춰서서 응시하는 미술작품 사이의 관계를 그의 사진 속에 담담하게 담아낸다. 그리고 이 우연을 회화적 사진작품으로 풀어내어 일상이 지닌 환상의 공간으로 승화시킨다. 명화 앞에 서성이는 관객을 포착하여 우연의 순간을 완성하고 이미지의 섞임과 헷갈림을 통해 작품을 구성한다. 이 이미지들은 우리가 깊이 바라본 매일의 삶과 맞닿아 있으며 그 이면에 잠재되어 있는 작가의 상상과 서정을 읽어주고 있다.</p>
+<p>SVA(School of Visual Art NY)에서 사진과 미디어 석사(MFA), International Center of Photography에서 수학. ‘Impulse’ Chashama Gallery에서 비디오 아티스트, ’Visitors’(2015, 2011 뉴욕), 다수의 개인전과 ‘Art blossom’(2016 뉴욕), ‘Greenpoint Open studio program’(2016 뉴욕), ‘Art is me, Art is you’(2014 뉴욕), 브룩클린 덤보 아트 페스티벌 , ‘Interlogue’(2014 뉴욕) 등 다수의 그룹전 참가. Spectrum Art fair(2014), 아트 바젤 마이애미를 비롯해 다수의 국제 아트페어 참가.<br><br><strong>Un hee Park,</strong> Un hee Park, a photographer and video artist, brings a fresh and unique approach to reading social reality through art in contemporary North America. Her deadpan comedy approach to the role of a media reporter has a hint of absurdity and naivety, as her persona and status as an outsider allows her to ask blunt, and sometimes very personal, questions.<br><br>She<strong> </strong>studied Glass Art and Art Therapy in Korea. Her exposure and experience with photography and art in Korea paved her way to a Master’s in Fine Arts (MFA) from SVA in 2013 and a certificate from the International Center of Photography (ICP) in 2010. She opened various exhibitions including 'Visitors'(2015 and 2011)in New York and group exhibition 'Glacial Forest'(2016), 'The Artists - Interlogue'(2015), 'Beyond Gravity'(2014). She also participated in 'Dumbo Art Festival'(2014), 'Art Basel in Miami Beach'(2014). </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col sqs-col-1 span-1">
+<div id="block-yui_3_17_2_35_1479907968867_6848" class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21">
+<div class="sqs-block-content"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -274,31 +360,120 @@
         </content>
     </entry>
     <entry>
-        <title>FOLIO </title>
+        <title>HYUNJOO YEUN</title>
         <author>
             <name>PP</name>
         </author>
-        <link href="https://gameondemand.com/michelles-art-4/"/>
-        <id>https://gameondemand.com/michelles-art-4/</id>
+        <link href="https://musee.kr/artist-hjy/"/>
+        <id>https://musee.kr/artist-hjy/</id>
             <category term="Artists"/>
 
-        <updated>2020-08-13T15:08:16-04:00</updated>
+        <updated>2020-08-13T16:59:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gameondemand.com/media/posts/9/folio.jpg" alt="" />
-                    Hanger-Barn NYC 2016 City of Dream Pavilion New York USA 1024 x&hellip;
+                        <img src="https://musee.kr/media/posts/14/YHJ.jpg" alt="" />
+                    Red Floor (2014) Charcoal, Acrylic paint on unprimed canvas 12x12 inches 연현주/HYUNJOO&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gameondemand.com/media/posts/9/folio.jpg" alt="" />
+                    <img src="https://musee.kr/media/posts/14/YHJ.jpg" alt="" />
                 <div id="block-2f27e668d6a5c22b6c61" class="sqs-block html-block sqs-block-html" data-block-type="2">
 <div class="sqs-block-content">
-<p class="align-right">Hanger-Barn NYC 2016 <br>City of Dream Pavilion New York USA <br>1024 x 819 Inches</p>
-<p><strong>Folio</strong><br>뉴욕시가 주최한 City of Dreams Pavillion 2016 공모에 선정된 이영수 허보석 두 건축가의 작품은 새로운 건축적 실험의 면모를 유감없이 발휘하였다. 당선작 ‘Hanger Barn’ 은 재활용 옷걸이를 활용해 모듈을 구축하고, 철거후 다시 조명,가구, green wall 로 재조립해 사용할수 있는 지속가능한 디자인에 촛점을 맞춘 설치 작품이다. 이미 존재하는 환경(existing context)과 새로운 공간(new context) 사이를 구분짓는 ‘경계선’에 대한 해석을 시점으로 설치물의 해체와 재정립의 과정을 통해 물리적 공간 이면에 내재하는 다양한 관계에 주목한다.<br><br>뉴욕시주최 ’2016 City of Dreams Pavilion’당선 남산동 멀티샵 설계(2016), 안동호텔 설계(2016), 인사동 차없는 거리 인사마루 설계(2015 포브스 코리아 복합문화공간 대상 수상), L-HOUSE 설계(2015), ’Stop, Unravel, Absorb’(2016 뉴욕), ‘NY Contemporary 8@Shanghai(2016 상하이)’ 그룹전 참여.<br><br><strong>이영수/YOUNGSU LEE</strong><br>하버드대 건축학 석사 (Master of Architecture degree). 뉴욕 SOM, 도쿄 Sou Fujimoto Architects, 도쿄 Satoshi Okada Architects, 뉴욕 CZS에서 건축 실무. 현 Folio 파트너로 다양한 도시의 건축을 유연함과자유로운 컨셉을 투영하면서 만들어 나가고자 하는 젊은 건축가.</p>
-<p><strong>허보석/BOSUK HUR </strong>하버드대 건축학 석사 (Master of Architecture degree with faculty design award). SOM Chicago, Space Group Seoul에서 건축 실무.Stanley Saitowitz/Natoma Architects의 프로젝트 디자이너를 거쳐 현 Folio의 파트너이자 아이오아 주립대에서 교수로 재직.</p>
-<p><br>Architect duo <strong>Youngsu Lee</strong> and <strong>Bosuk Hur</strong>’s installation Beyond the Boundary redefines the boundary between an existing and a new context. By dissolving the physical boundary, the installation exposes the reestablishment of two spaces as one and draws attention to the diverse relationships that can now take place in the new space. <br><br><strong>Youngsu Lee</strong> completed a master of architecture degree at Harvard University and built his career in architecture design at SOM New York, Sou Fujimoto Architects Tokyo, Satosh Okada Architects Tokyo, and Carlos Zapata Studio New York. He is one of the founders of Folio, an architect firm in New York. </p>
-<p><strong>Bosuk Hur </strong>completed a master of architecture degree with faculty design award at Harvard University and taught architectural design at GSD. Hur accumulated experience as an architect at SOM Chicago, and Space Group Seoul, and held numbers of exhibitions in Korea, the US and Italy. He previously worked as a project designer at Stanley Saitowitz/ Natoma Architects, and currently working at Folio, an architect firm, and a professor at Iowa State University.</p>
+<p class="align-right"><em>Red Floor (2014)</em><br>Charcoal, Acrylic paint on unprimed canvas<br>12x12 inches</p>
+<div id="page-body-wrapper" class="full-width">
+<div id="page-body">
+<div id="content-wrapper">
+<div id="content">
+<div class="main-content" data-content-field="main-content" data-collection-id="5823287229687f5694188cc9" data-edit-main-image="Page Banner">
+<div id="page-5823287229687f5694188cc9" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479909576709">
+<div class="row sqs-row">
+<div class="col sqs-col-12 span-12">
+<div class="row sqs-row">
+<div class="col sqs-col-10 span-10">
+<div id="block-944c1b7240712863c082" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-body-wrapper" class="full-width">
+<div id="page-body">
+<div id="content-wrapper">
+<div id="content">
+<div class="main-content" data-content-field="main-content" data-collection-id="582328a529687f5694188e8a" data-edit-main-image="Page Banner">
+<div id="page-582328a529687f5694188e8a" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479909982680">
+<div class="row sqs-row">
+<div class="col sqs-col-10 span-10">
+<div id="block-761c9f5e4907a8624b0d" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<div id="page-body-wrapper" class="full-width">
+<div id="page-body">
+<div id="content-wrapper">
+<div id="content">
+<div class="main-content" data-content-field="main-content" data-collection-id="582328b8725e25b750698e5b" data-edit-main-image="Page Banner">
+<div id="page-582328b8725e25b750698e5b" class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1479910152494">
+<div class="row sqs-row">
+<div class="col sqs-col-11 span-11">
+<div class="row sqs-row">
+<div class="col sqs-col-10 span-10">
+<div id="block-43c9cc5678143f2d788f" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<p><strong>연현주/HYUNJOO YEUN </strong>작가의 창이 있는 추상은 반복되는 일상이 있는 곳이다. 소소한 삶이 그대로 숨쉬고 있는 일상의 공간인 창을 통해 작가가 보고 느끼는 것, 그리고 갈망하는 것들을 때로는 진지하게 때로는 그저 무심하게 그려간다. 잊혀진 꿈과 기억을 찾아나선 작가의 여정이 이제 한 모퉁이를 돌았다. 창가에 기대어 있던 빛의 앵글은 완만해 지며 이야기는 유쾌하고 온유한 빛을 발한다. 더 많은 세상의 이야기를 포용한 너그러운 창이 우리를 향해 문을 활짝 열고 다가오고 있는 것이다.</p>
+<p>성신여대에서 회화전공(BFA)SAL(Students of Art League) 수학. ’Stop, Unravel, Absorb’(2016 뉴욕), ’NY Contemporary 8@Shanghai’(2016 상하이), ‘Window’ (2015 미국) 개인전을 비롯 ’Re-illumination’(2015 뉴욕), ‘ELYH’(2014 로스엔젤레스), ‘Variety’(2014 뉴욕), ‘Lalala small people, big exhibition’(2014 뉴욕), ‘Dual Exhibition’(2013 뉴욕) 등 다수의 2인전과 그룹전시 참여. Affordable Art Fair NY(2014), KIAF(2014) 등 다수의 국제 아트페어 참가.</p>
+<p><strong>Hyunjoo Yeun</strong>’s series of window images depicts daily life in its most modest and unadulterated sense. Sometimes drawn seriously, but most of the time nonchalantly, the windows are a way for Yeun to describe her reflections on daily life and all that she has longed for. The artist that had once embarked on a journey to recover her lost memories and forgotten dreams has finally turned a corner and found comfort and levity in daily life, as depicted in the gentler angles of the light penetrating through the windows.</p>
+<p>She completed BFA at Sungshin Women’s University and studied at Students of Art League. She held ‘Window’ in 2015, ‘Dual Exhibition’ in 2013, and participated various international art fairs such as Affordable Art Fair NY (2014), and KIAF (2014).</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col sqs-col-1 span-1">
+<div id="block-yui_3_17_2_33_1479907968867_9448" class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="31.884057971014492" data-block-type="21">
+<div id="yui_3_17_2_1_1597262526829_63" class="sqs-block-content sqs-intrinsic"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-body-footer" class="extra-wrapper">
+<div id="page-footer-582328b8725e25b750698e5b" class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Hyunjoo Yeun Footer Content" data-type="block-field">
+<div class="row sqs-row">
+<div class="col sqs-col-12 span-12"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="body-clearer" class="clearer"> </div>
+</div>
+</div>
+<div id="page-footer-wrapper">
+<div id="page-footer">
+<div id="footer-blocks" class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1479787555261">
+<div class="row sqs-row">
+<div class="col sqs-col-12 span-12"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
             ]]>
