@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://musee.kr/michelles-artstory-05/",
+            "url": "https://musee.kr/michelles-artstory-05/",
+            "title": "Michelle&#x27;s ArtStory 05",
+            "summary": "[미쉘쌤의미술이야기 05] 헬레니즘 미술과 메트의 헬레니즘 벽화 기원전 4세기에서 기원후 5세기까지의 그리스와&hellip;",
+            "content_html": "<h4>[미쉘쌤의미술이야기 05] 헬레니즘 미술과 메트의 헬레니즘 벽화</h4>\n<p> </p>\n<p>기원전 4세기에서 기원후 5세기까지의 그리스와 그리스의 세계 그리고 헬레니즘 미술을 이야기 합니다. 그런가 하면 메트로 폴리탄 뮤지엄의 로마시대의 별장안 헬레니즘 벽화가 있는 방으로 초대합니다~</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/vARxv-iFRHA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "image": "https://musee.kr/media/posts/18/fr_3676_size880.jpg",
+            "author": {
+                "name": "PP"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
+        },
+        {
             "id": "https://musee.kr/about-us/",
             "url": "https://musee.kr/about-us/",
             "title": "About Us",
@@ -21,8 +36,8 @@
             "tags": [
                    "others"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/art-story-04/",
@@ -37,8 +52,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/art-story-03/",
@@ -53,8 +68,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/art-story-02/",
@@ -69,8 +84,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/art-story-01/",
@@ -85,8 +100,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/exhibition-sel/",
@@ -101,8 +116,8 @@
             "tags": [
                    "Exhibition"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/exhibition-nyc/",
@@ -117,8 +132,8 @@
             "tags": [
                    "Exhibition"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/exhibition-sha/",
@@ -133,8 +148,8 @@
             "tags": [
                    "Exhibition"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         },
         {
             "id": "https://musee.kr/artisit-uhp/",
@@ -149,24 +164,8 @@
             "tags": [
                    "Artists"
             ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
-        },
-        {
-            "id": "https://musee.kr/artist-hjy/",
-            "url": "https://musee.kr/artist-hjy/",
-            "title": "HYUNJOO YEUN",
-            "summary": "Red Floor (2014) Charcoal, Acrylic paint on unprimed canvas 12x12 inches 연현주/HYUNJOO&hellip;",
-            "content_html": "<div id=\"block-2f27e668d6a5c22b6c61\" class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\">\n<div class=\"sqs-block-content\">\n<p class=\"align-right\"><em>Red Floor (2014)</em><br>Charcoal, Acrylic paint on unprimed canvas<br>12x12 inches</p>\n<div id=\"page-body-wrapper\" class=\"full-width\">\n<div id=\"page-body\">\n<div id=\"content-wrapper\">\n<div id=\"content\">\n<div class=\"main-content\" data-content-field=\"main-content\" data-collection-id=\"5823287229687f5694188cc9\" data-edit-main-image=\"Page Banner\">\n<div id=\"page-5823287229687f5694188cc9\" class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1479909576709\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-12 span-12\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-10 span-10\">\n<div id=\"block-944c1b7240712863c082\" class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\">\n<div class=\"sqs-block-content\"> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"page-body-wrapper\" class=\"full-width\">\n<div id=\"page-body\">\n<div id=\"content-wrapper\">\n<div id=\"content\">\n<div class=\"main-content\" data-content-field=\"main-content\" data-collection-id=\"582328a529687f5694188e8a\" data-edit-main-image=\"Page Banner\">\n<div id=\"page-582328a529687f5694188e8a\" class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1479909982680\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-10 span-10\">\n<div id=\"block-761c9f5e4907a8624b0d\" class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\">\n<div class=\"sqs-block-content\">\n<div id=\"page-body-wrapper\" class=\"full-width\">\n<div id=\"page-body\">\n<div id=\"content-wrapper\">\n<div id=\"content\">\n<div class=\"main-content\" data-content-field=\"main-content\" data-collection-id=\"582328b8725e25b750698e5b\" data-edit-main-image=\"Page Banner\">\n<div id=\"page-582328b8725e25b750698e5b\" class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1479910152494\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-11 span-11\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-10 span-10\">\n<div id=\"block-43c9cc5678143f2d788f\" class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\">\n<div class=\"sqs-block-content\">\n<p><strong>연현주/HYUNJOO YEUN </strong>작가의 창이 있는 추상은 반복되는 일상이 있는 곳이다. 소소한 삶이 그대로 숨쉬고 있는 일상의 공간인 창을 통해 작가가 보고 느끼는 것, 그리고 갈망하는 것들을 때로는 진지하게 때로는 그저 무심하게 그려간다. 잊혀진 꿈과 기억을 찾아나선 작가의 여정이 이제 한 모퉁이를 돌았다. 창가에 기대어 있던 빛의 앵글은 완만해 지며 이야기는 유쾌하고 온유한 빛을 발한다. 더 많은 세상의 이야기를 포용한 너그러운 창이 우리를 향해 문을 활짝 열고 다가오고 있는 것이다.</p>\n<p>성신여대에서 회화전공(BFA)SAL(Students of Art League) 수학. ’Stop, Unravel, Absorb’(2016 뉴욕), ’NY Contemporary 8@Shanghai’(2016 상하이), ‘Window’ (2015 미국) 개인전을 비롯 ’Re-illumination’(2015 뉴욕), ‘ELYH’(2014 로스엔젤레스), ‘Variety’(2014 뉴욕), ‘Lalala small people, big exhibition’(2014 뉴욕), ‘Dual Exhibition’(2013 뉴욕) 등 다수의 2인전과 그룹전시 참여. Affordable Art Fair NY(2014), KIAF(2014) 등 다수의 국제 아트페어 참가.</p>\n<p><strong>Hyunjoo Yeun</strong>’s series of window images depicts daily life in its most modest and unadulterated sense. Sometimes drawn seriously, but most of the time nonchalantly, the windows are a way for Yeun to describe her reflections on daily life and all that she has longed for. The artist that had once embarked on a journey to recover her lost memories and forgotten dreams has finally turned a corner and found comfort and levity in daily life, as depicted in the gentler angles of the light penetrating through the windows.</p>\n<p>She completed BFA at Sungshin Women’s University and studied at Students of Art League. She held ‘Window’ in 2015, ‘Dual Exhibition’ in 2013, and participated various international art fairs such as Affordable Art Fair NY (2014), and KIAF (2014).</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col sqs-col-1 span-1\">\n<div id=\"block-yui_3_17_2_33_1479907968867_9448\" class=\"sqs-block spacer-block sqs-block-spacer\" data-aspect-ratio=\"31.884057971014492\" data-block-type=\"21\">\n<div id=\"yui_3_17_2_1_1597262526829_63\" class=\"sqs-block-content sqs-intrinsic\"> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"page-body-footer\" class=\"extra-wrapper\">\n<div id=\"page-footer-582328b8725e25b750698e5b\" class=\"sqs-layout sqs-grid-12 columns-12 empty\" data-layout-label=\"Hyunjoo Yeun Footer Content\" data-type=\"block-field\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-12 span-12\"> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"body-clearer\" class=\"clearer\"> </div>\n</div>\n</div>\n<div id=\"page-footer-wrapper\">\n<div id=\"page-footer\">\n<div id=\"footer-blocks\" class=\"sqs-layout sqs-grid-12 columns-12 empty\" data-layout-label=\"Footer Content\" data-type=\"block-field\" data-updated-on=\"1479787555261\">\n<div class=\"row sqs-row\">\n<div class=\"col sqs-col-12 span-12\"> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
-            "image": "https://musee.kr/media/posts/14/YHJ.jpg",
-            "author": {
-                "name": "PP"
-            },
-            "tags": [
-                   "Artists"
-            ],
-            "date_published": "2020-08-14T23:57:39-04:00",
-            "date_modified": "2020-08-14T23:57:39-04:00"
+            "date_published": "2020-09-08T17:28:15-04:00",
+            "date_modified": "2020-09-08T17:28:15-04:00"
         }
     ]
 }
