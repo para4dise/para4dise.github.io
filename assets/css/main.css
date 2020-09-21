@@ -1750,10 +1750,17 @@ textarea {
   top: 0;
   width: 100%;
 }
+/* Modified By Paradise 9/20/2020 for img rotate
 .c-card:hover .c-card__image img {
   -webkit-transform: scale(1.6) rotate(-10deg);
       -ms-transform: scale(1.6) rotate(-10deg);
           transform: scale(1.6) rotate(-10deg);
+}
+*/
+.c-card:hover .c-card__image img {
+  -webkit-transform: scale(1.6) rotate(0deg);
+      -ms-transform: scale(1.6) rotate(0deg);
+          transform: scale(1.6) rotate(0deg);
 }
 .c-card__header {
   position: absolute;
