@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://musee.kr/michelles-artstory-08/",
+            "url": "https://musee.kr/michelles-artstory-08/",
+            "title": "Michelle&#x27;s ArtStory 08",
+            "summary": "[미쉘쌤의 미술이야기 08] 곰브리치서양미술사 7장 동방의 미술, The Met 중국정원 이야기 2세기에서&hellip;",
+            "content_html": "<p>[미쉘쌤의 미술이야기 08] 곰브리치서양미술사 7장 동방의 미술, The Met 중국정원 이야기</p>\n<p>2세기에서 13세기까지 천년의 격동기에 이슬람과 중국의 미술은 어떤 이야기를 그려내는지 살펴보고 메트로폴리탄 뮤지엄의 17세기 중국정원 (The Astor Chinese Garden Court)의 이야기로 이어갑니다.</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/pXDTPJraMlY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "image": "https://musee.kr/media/posts/27/fr_788.jpg",
+            "author": {
+                "name": "Paradise"
+            },
+            "tags": [
+                   "Michelle&#x27;s Artstory"
+            ],
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
+        },
+        {
             "id": "https://musee.kr/my-arttalk-05/",
             "url": "https://musee.kr/my-arttalk-05/",
             "title": "My ArtTalk #05",
@@ -22,8 +38,8 @@
             "tags": [
                    "ArtTalk"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-07/",
@@ -38,8 +54,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-06/",
@@ -54,8 +70,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/my-arttalk-04-2/",
@@ -70,8 +86,8 @@
             "tags": [
                    "ArtTalk"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/art-story-05/",
@@ -86,8 +102,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/about-us/",
@@ -101,8 +117,8 @@
             "tags": [
                    "others"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/art-story-04/",
@@ -117,8 +133,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/art-story-03/",
@@ -133,8 +149,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         },
         {
             "id": "https://musee.kr/art-story-02/",
@@ -149,24 +165,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
-        },
-        {
-            "id": "https://musee.kr/art-story-01/",
-            "url": "https://musee.kr/art-story-01/",
-            "title": "Michelle&#x27;s ArtStory 01",
-            "summary": "[미쉘쌤의미술이야기 01] 서양미술사 그리고 메트로폴리탄뮤지엄 미쉘쌤이 풀어가는 미술 이야기 그 첫번째 시간&hellip;",
-            "content_html": "<h4>[미쉘쌤의미술이야기 01] 서양미술사 그리고 메트로폴리탄뮤지엄</h4>\n<p> </p>\n<p>미쉘쌤이 풀어가는 미술 이야기 그 첫번째 시간</p>\n<p>  <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/fAJZ03ch9zA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
-            "image": "https://musee.kr/media/posts/7/snapshotS01E01.jpg",
-            "author": {
-                "name": "Paradise"
-            },
-            "tags": [
-                   "Michelle&#x27;s Artstory"
-            ],
-            "date_published": "2020-10-22T19:54:55-04:00",
-            "date_modified": "2020-10-22T19:54:55-04:00"
+            "date_published": "2020-11-14T19:00:54-05:00",
+            "date_modified": "2020-11-14T19:00:54-05:00"
         }
     ]
 }
