@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://musee.kr/michelles-artstory-2/",
+            "url": "https://musee.kr/michelles-artstory-2/",
+            "title": "Michelle&#x27;s ArtStory 10",
+            "summary": "[미쉘쌤의 미술이야기 10] 곰브리치서양미술사 1장에서 8장까지 돌아보기 곰브리치의 서양 미술사 서론에서 출발한&hellip;",
+            "content_html": "<p>[미쉘쌤의  미술이야기 10] 곰브리치서양미술사 1장에서 8장까지 돌아보기</p>\n<p>곰브리치의 서양 미술사 서론에서 출발한 미술 이야기가 8장 중세의 미술로 접어 들었네요! 더 멀리 가기 위해 정리하고 숨을 고르는 시간입니다. 우리가 얼마만큼 지나 왔고 어디에 서 있는지, 수많은 역사적 사건과 연도 그리고 인명들 속에서 길을 잃지 않도록 되짚어보는 시간입니다. 미술사와 같이 읽으면 좋은 곰브리치의 책 A Little History of The World 에 대한 이야기도 있어요~</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/4uHlBaPsyM8?list=PLl0QcnA1m_krT825ybzqf9Mds255feIkh\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "image": "https://musee.kr/media/posts/29/fr_1447.jpg",
+            "author": {
+                "name": "Paradise"
+            },
+            "tags": [
+                   "Michelle&#x27;s Artstory"
+            ],
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
+        },
+        {
             "id": "https://musee.kr/michelles-artstory-9/",
             "url": "https://musee.kr/michelles-artstory-9/",
             "title": "Michelle&#x27;s ArtStory 09",
@@ -22,8 +38,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-08/",
@@ -38,8 +54,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/my-arttalk-05/",
@@ -54,8 +70,8 @@
             "tags": [
                    "ArtTalk"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-07/",
@@ -70,8 +86,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-06/",
@@ -86,8 +102,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/my-arttalk-04-2/",
@@ -102,8 +118,8 @@
             "tags": [
                    "ArtTalk"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/art-story-05/",
@@ -118,8 +134,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/about-us/",
@@ -133,8 +149,8 @@
             "tags": [
                    "others"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         },
         {
             "id": "https://musee.kr/art-story-04/",
@@ -149,24 +165,8 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
-        },
-        {
-            "id": "https://musee.kr/art-story-03/",
-            "url": "https://musee.kr/art-story-03/",
-            "title": "Michelle&#x27;s ArtStory 03",
-            "summary": "[미쉘쌤의미술이야기 03] 이집트 미술 서양미술사 세번째 챕터 영원을 위한 미술 - 이집트&hellip;",
-            "content_html": "<h4>[미쉘쌤의미술이야기 03] 이집트 미술</h4>\n<p> </p>\n<p>서양미술사 세번째 챕터 영원을 위한 미술 - 이집트 미술과 메트의 덴더신전 이야기를 나눠요~</p>\n<p> </p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/ufS0RoZhTPI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
-            "image": "https://musee.kr/media/posts/4/snapshotS01E03.jpg",
-            "author": {
-                "name": "Paradise"
-            },
-            "tags": [
-                   "Michelle&#x27;s Artstory"
-            ],
-            "date_published": "2020-12-12T21:46:04-05:00",
-            "date_modified": "2020-12-12T21:46:04-05:00"
+            "date_published": "2021-01-15T22:32:35-05:00",
+            "date_modified": "2021-01-15T22:32:35-05:00"
         }
     ]
 }
