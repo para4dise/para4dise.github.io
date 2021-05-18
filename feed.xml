@@ -3,12 +3,37 @@
     <title>musee.kr</title>
     <link href="https://musee.kr/feed.xml" rel="self" />
     <link href="https://musee.kr" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2021-05-18T19:52:19-04:00</updated>
     <author>
         <name>Paradise</name>
     </author>
     <id>https://musee.kr</id>
 
+    <entry>
+        <title>Michelle&#x27;s ArtStory 13</title>
+        <author>
+            <name>Paradise</name>
+        </author>
+        <link href="https://musee.kr/michelles-artstory-12-2/"/>
+        <id>https://musee.kr/michelles-artstory-12-2/</id>
+            <category term="Michelle&#x27;s Artstory"/>
+
+        <updated>2021-05-18T19:52:19-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://musee.kr/media/posts/32/fr_1643.jpg" alt="" />
+                    [미쉘쌤의 미술이야기 13] 곰브리치 서양미술사 11장 귀족과 시민 14세기 유럽의 귀족과 시민에&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://musee.kr/media/posts/32/fr_1643.jpg" alt="" />
+                <p>[미쉘쌤의 미술이야기 13] 곰브리치 서양미술사 11장 귀족과 시민</p>
+<p>14세기 유럽의 귀족과 시민에 관한 이야기와 이 시대 미술의 특징인 도시의 세련된 취향과 장식적 양식, 그리고 뉴욕 메트 뮤지엄의 로버트 리만 콜렉션에 대한 이야기를 들려 드립니다.</p>
+<div class="post__iframe"><iframe loading="lazy" width="1215" height="683" src="https://www.youtube.com/embed/74iFCB7ODSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Michelle&#x27;s ArtStory 12</title>
         <author>
@@ -18,7 +43,7 @@
         <id>https://musee.kr/michelles-artstory-12/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2021-04-07T10:38:37-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/31/artstory12.jpg" alt="" />
@@ -30,7 +55,7 @@
                     <img src="https://musee.kr/media/posts/31/artstory12.jpg" alt="" />
                 <p>[미쉘쌤의 미술이야기 12] 곰브리치 서양미술사 10장 교회의 승리</p>
 <p>곰브리치 서양미술사 열번째 챕터 '교회의 승리'는 13세기 고딕 미술에 대한 이야기입니다. 프랑스에서 시작된 대성당 시대의 미술과 메트로폴리탄 뮤지엄의 중세 미술관 콰이어스크린에 관한 이야기도 들려 드립니다.</p>
-<p><div class="post__iframe"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/INydlq_pzb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/INydlq_pzb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -43,7 +68,7 @@
         <id>https://musee.kr/michelles-artstory-11/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2021-04-07T10:38:26-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/30/fr_1730.jpg" alt="" />
@@ -55,7 +80,7 @@
                     <img src="https://musee.kr/media/posts/30/fr_1730.jpg" alt="" />
                 <p>[미쉘쌤의  미술이야기 11] 곰브리치서양미술사 9장 전투적인 교회</p>
 <p>12세기 십자군의 세기를 맞이해서 로마네스크 교회는 교회의 사명을 감당하기 위해 어떻게 전투적인 교회가 되어가는 지, 그리고 클로이스터뮤지엄의 로베르 캉팽의 공방에서 제작된 메드로 제단화의 이야기도 함께 이야기 합니다.</p>
-<p><div class="post__iframe"><iframe loading="lazy" width="1157" height="651" src="https://www.youtube.com/embed/Q-CRaED2JpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="1157" height="651" src="https://www.youtube.com/embed/Q-CRaED2JpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -68,7 +93,7 @@
         <id>https://musee.kr/michelles-artstory-10/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2021-04-07T10:38:14-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/29/fr_1447.jpg" alt="" />
@@ -80,7 +105,7 @@
                     <img src="https://musee.kr/media/posts/29/fr_1447.jpg" alt="" />
                 <p>[미쉘쌤의  미술이야기 10] 곰브리치서양미술사 1장에서 8장까지 돌아보기</p>
 <p>곰브리치의 서양 미술사 서론에서 출발한 미술 이야기가 8장 중세의 미술로 접어 들었네요! 더 멀리 가기 위해 정리하고 숨을 고르는 시간입니다. 우리가 얼마만큼 지나 왔고 어디에 서 있는지, 수많은 역사적 사건과 연도 그리고 인명들 속에서 길을 잃지 않도록 되짚어보는 시간입니다. 미술사와 같이 읽으면 좋은 곰브리치의 책 A Little History of The World 에 대한 이야기도 있어요~</p>
-<p><div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/4uHlBaPsyM8?list=PLl0QcnA1m_krT825ybzqf9Mds255feIkh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/4uHlBaPsyM8?list=PLl0QcnA1m_krT825ybzqf9Mds255feIkh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -93,7 +118,7 @@
         <id>https://musee.kr/michelles-artstory-09/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2021-04-07T10:38:05-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/28/fr_1066_full.jpg" alt="" />
@@ -106,7 +131,7 @@
                 <p>[미쉘쌤의미술이야기 09] 곰브리치서양미술사 8장 혼돈기의 중세미술,  The Met 유니콘 타피스트리</p>
 <p>6세기에서 11세기까지 중세의 혼돈기, 그렇지만 그 칡흑같은 어둠속에서도 찬란히 빛을 발했던 미술 이야기와 미술가들 그리고 클로이스터 뮤지엄 The Met의 World Best Known Masterpiece ‘유니콘 타피스트리’ The Unicorn Tapistries의 매혹적인 이야기를 들려 드립니다.</p>
 <p> </p>
-<p><div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/jJxGM2SeVIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/jJxGM2SeVIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -119,7 +144,7 @@
         <id>https://musee.kr/michelles-artstory-08/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2020-12-12T21:42:40-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/27/fr_788.jpg" alt="" />
@@ -131,7 +156,7 @@
                     <img src="https://musee.kr/media/posts/27/fr_788.jpg" alt="" />
                 <p>[미쉘쌤의 미술이야기 08] 곰브리치서양미술사 7장 동방의 미술, The Met 중국정원 이야기</p>
 <p>2세기에서 13세기까지 천년의 격동기에 이슬람과 중국의 미술은 어떤 이야기를 그려내는지 살펴보고 메트로폴리탄 뮤지엄의 17세기 중국정원 (The Astor Chinese Garden Court)의 이야기로 이어갑니다.</p>
-<p><div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/pXDTPJraMlY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/pXDTPJraMlY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -144,11 +169,11 @@
         <id>https://musee.kr/my-arttalk-05/</id>
             <category term="ArtTalk"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2020-10-22T19:53:50-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/26/MyArtTalk05-01.jpg" alt="" />
-                    다, 그림이다 손철주 이주은 지음그림 읽기와 쓰기를 이처럼 품위있게 이야기하는 책을 발견하기란&hellip;
+                    다, 그림이다 손철주 이주은 지음 그림 읽기와 쓰기를 이처럼 품위있게 이야기하는 책을&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -175,11 +200,11 @@
         <id>https://musee.kr/michelles-artstory-07/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2020-11-14T18:55:58-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/25/fr_4400.jpg" alt="" />
-                    [미쉘쌤의 미술이야기 07] 곰브리치서양미술사 6장 로마와 비잔티움의 미술, 메트로폴리탄뮤지엄 더 클로이스터5세기에서 13세기까지&hellip;
+                    [미쉘쌤의 미술이야기 07] 곰브리치서양미술사 6장 로마와 비잔티움의 미술, 메트로폴리탄뮤지엄 더 클로이스터 5세기에서&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -187,7 +212,7 @@
                     <img src="https://musee.kr/media/posts/25/fr_4400.jpg" alt="" />
                 <h4>[미쉘쌤의 미술이야기 07] 곰브리치서양미술사 6장 로마와 비잔티움의 미술, 메트로폴리탄뮤지엄 더 클로이스터</h4>
 <p>5세기에서 13세기까지 로마와 비잔티움의 미술이 어떻게 각자의 길을 향해 떠나고 있는지, 기로에 서 있는 미술이야기와 클로이스터 The Met Cloisters 뮤지엄의 고즈넉한 중세의 시간과 공간으로 초대 합니다.</p>
-<p><div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/x-6pXjbgQv8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/x-6pXjbgQv8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -200,7 +225,7 @@
         <id>https://musee.kr/michelles-artstory-06/</id>
             <category term="Michelle&#x27;s Artstory"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2020-10-18T00:49:30-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/24/fr_4080.jpg" alt="" />
@@ -212,7 +237,7 @@
                     <img src="https://musee.kr/media/posts/24/fr_4080.jpg" alt="" />
                 <h4>[미쉘쌤의 미술이야기 06] 곰브리치서양미술사 5장 세계의 정복자들, 메트로폴리탄뮤지엄의 로마의 검은방벽화</h4>
 <p> </p>
-<p>기원 후 1세기에서 4세기까지 로마제국 그리고 이 제국의 영향을 받은 불교와 유태교 그리고 기독교 미술과 메트로폴리탄 뮤지엄의 로마제국의 검은방 벽화 이야기를 이어갑니다.<div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/NjUeJCsjZ38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p>기원 후 1세기에서 4세기까지 로마제국 그리고 이 제국의 영향을 받은 불교와 유태교 그리고 기독교 미술과 메트로폴리탄 뮤지엄의 로마제국의 검은방 벽화 이야기를 이어갑니다.<div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/NjUeJCsjZ38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -225,11 +250,11 @@
         <id>https://musee.kr/my-arttalk-04-2/</id>
             <category term="ArtTalk"/>
 
-        <updated>2021-04-08T12:15:51-04:00</updated>
+        <updated>2020-09-17T23:06:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://musee.kr/media/posts/23/01-2.jpg" alt="" />
-                    나의 미술 이야기 #4&lt;The Met 전시리뷰: 발로통, 거트루트 스타인, 미드나이트 인 파리&gt;&hellip;
+                    나의 미술 이야기 #4 &lt;The Met 전시리뷰: 발로통, 거트루트 스타인, 미드나이트 인&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -269,32 +294,6 @@
 <figure class="gallery__item"><a href="https://musee.kr/media/posts/23/gallery/19.jpg" data-size="960x720"><img loading="lazy" src="https://musee.kr/media/posts/23/gallery/19-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Michelle&#x27;s ArtStory 05</title>
-        <author>
-            <name>Paradise</name>
-        </author>
-        <link href="https://musee.kr/art-story-05/"/>
-        <id>https://musee.kr/art-story-05/</id>
-            <category term="Michelle&#x27;s Artstory"/>
-
-        <updated>2021-04-08T12:15:51-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://musee.kr/media/posts/18/fr_3676_size880.jpg" alt="" />
-                    [미쉘쌤의미술이야기 05] 헬레니즘 미술과 메트의 헬레니즘 벽화 기원전 4세기에서 기원후 5세기까지의 그리스와&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://musee.kr/media/posts/18/fr_3676_size880.jpg" alt="" />
-                <h4>[미쉘쌤의미술이야기 05] 헬레니즘 미술과 메트의 헬레니즘 벽화</h4>
-<p> </p>
-<p>기원전 4세기에서 기원후 5세기까지의 그리스와 그리스의 세계 그리고 헬레니즘 미술을 이야기 합니다. 그런가 하면 메트로 폴리탄 뮤지엄의 로마시대의 별장안 헬레니즘 벽화가 있는 방으로 초대합니다~</p>
-<p><div class="post__iframe"><iframe loading="lazy" width="853" height="480" src="https://www.youtube.com/embed/vARxv-iFRHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
             ]]>
         </content>
     </entry>

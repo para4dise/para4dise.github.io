@@ -10,11 +10,27 @@
     },
     "items": [
         {
+            "id": "https://musee.kr/michelles-artstory-12-2/",
+            "url": "https://musee.kr/michelles-artstory-12-2/",
+            "title": "Michelle&#x27;s ArtStory 13",
+            "summary": "[미쉘쌤의 미술이야기 13] 곰브리치 서양미술사 11장 귀족과 시민 14세기 유럽의 귀족과 시민에&hellip;",
+            "content_html": "<p>[미쉘쌤의 미술이야기 13] 곰브리치 서양미술사 11장 귀족과 시민</p>\n<p>14세기 유럽의 귀족과 시민에 관한 이야기와 이 시대 미술의 특징인 도시의 세련된 취향과 장식적 양식, 그리고 뉴욕 메트 뮤지엄의 로버트 리만 콜렉션에 대한 이야기를 들려 드립니다.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1215\" height=\"683\" src=\"https://www.youtube.com/embed/74iFCB7ODSU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://musee.kr/media/posts/32/fr_1643.jpg",
+            "author": {
+                "name": "Paradise"
+            },
+            "tags": [
+                   "Michelle&#x27;s Artstory"
+            ],
+            "date_published": "2021-05-18T19:49:27-04:00",
+            "date_modified": "2021-05-18T19:52:19-04:00"
+        },
+        {
             "id": "https://musee.kr/michelles-artstory-12/",
             "url": "https://musee.kr/michelles-artstory-12/",
             "title": "Michelle&#x27;s ArtStory 12",
             "summary": "[미쉘쌤의 미술이야기 12] 곰브리치 서양미술사 10장 교회의 승리 곰브리치 서양미술사 열번째 챕터&hellip;",
-            "content_html": "<p>[미쉘쌤의 미술이야기 12] 곰브리치 서양미술사 10장 교회의 승리</p>\n<p>곰브리치 서양미술사 열번째 챕터 '교회의 승리'는 13세기 고딕 미술에 대한 이야기입니다. 프랑스에서 시작된 대성당 시대의 미술과 메트로폴리탄 뮤지엄의 중세 미술관 콰이어스크린에 관한 이야기도 들려 드립니다.</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/INydlq_pzb8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "content_html": "<p>[미쉘쌤의 미술이야기 12] 곰브리치 서양미술사 10장 교회의 승리</p>\n<p>곰브리치 서양미술사 열번째 챕터 '교회의 승리'는 13세기 고딕 미술에 대한 이야기입니다. 프랑스에서 시작된 대성당 시대의 미술과 메트로폴리탄 뮤지엄의 중세 미술관 콰이어스크린에 관한 이야기도 들려 드립니다.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/INydlq_pzb8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://musee.kr/media/posts/31/artstory12.jpg",
             "author": {
                 "name": "Paradise"
@@ -22,15 +38,15 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2021-04-07T10:30:02-04:00",
+            "date_modified": "2021-04-07T10:38:37-04:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-11/",
             "url": "https://musee.kr/michelles-artstory-11/",
             "title": "Michelle&#x27;s ArtStory 11",
             "summary": "[미쉘쌤의 미술이야기 11] 곰브리치서양미술사 9장 전투적인 교회 12세기 십자군의 세기를 맞이해서 로마네스크&hellip;",
-            "content_html": "<p>[미쉘쌤의  미술이야기 11] 곰브리치서양미술사 9장 전투적인 교회</p>\n<p>12세기 십자군의 세기를 맞이해서 로마네스크 교회는 교회의 사명을 감당하기 위해 어떻게 전투적인 교회가 되어가는 지, 그리고 클로이스터뮤지엄의 로베르 캉팽의 공방에서 제작된 메드로 제단화의 이야기도 함께 이야기 합니다.</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1157\" height=\"651\" src=\"https://www.youtube.com/embed/Q-CRaED2JpA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "content_html": "<p>[미쉘쌤의  미술이야기 11] 곰브리치서양미술사 9장 전투적인 교회</p>\n<p>12세기 십자군의 세기를 맞이해서 로마네스크 교회는 교회의 사명을 감당하기 위해 어떻게 전투적인 교회가 되어가는 지, 그리고 클로이스터뮤지엄의 로베르 캉팽의 공방에서 제작된 메드로 제단화의 이야기도 함께 이야기 합니다.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1157\" height=\"651\" src=\"https://www.youtube.com/embed/Q-CRaED2JpA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://musee.kr/media/posts/30/fr_1730.jpg",
             "author": {
                 "name": "Paradise"
@@ -38,15 +54,15 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2021-02-16T22:39:42-05:00",
+            "date_modified": "2021-04-07T10:38:26-04:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-10/",
             "url": "https://musee.kr/michelles-artstory-10/",
             "title": "Michelle&#x27;s ArtStory 10",
             "summary": "[미쉘쌤의 미술이야기 10] 곰브리치서양미술사 1장에서 8장까지 돌아보기 곰브리치의 서양 미술사 서론에서 출발한&hellip;",
-            "content_html": "<p>[미쉘쌤의  미술이야기 10] 곰브리치서양미술사 1장에서 8장까지 돌아보기</p>\n<p>곰브리치의 서양 미술사 서론에서 출발한 미술 이야기가 8장 중세의 미술로 접어 들었네요! 더 멀리 가기 위해 정리하고 숨을 고르는 시간입니다. 우리가 얼마만큼 지나 왔고 어디에 서 있는지, 수많은 역사적 사건과 연도 그리고 인명들 속에서 길을 잃지 않도록 되짚어보는 시간입니다. 미술사와 같이 읽으면 좋은 곰브리치의 책 A Little History of The World 에 대한 이야기도 있어요~</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/4uHlBaPsyM8?list=PLl0QcnA1m_krT825ybzqf9Mds255feIkh\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "content_html": "<p>[미쉘쌤의  미술이야기 10] 곰브리치서양미술사 1장에서 8장까지 돌아보기</p>\n<p>곰브리치의 서양 미술사 서론에서 출발한 미술 이야기가 8장 중세의 미술로 접어 들었네요! 더 멀리 가기 위해 정리하고 숨을 고르는 시간입니다. 우리가 얼마만큼 지나 왔고 어디에 서 있는지, 수많은 역사적 사건과 연도 그리고 인명들 속에서 길을 잃지 않도록 되짚어보는 시간입니다. 미술사와 같이 읽으면 좋은 곰브리치의 책 A Little History of The World 에 대한 이야기도 있어요~</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/4uHlBaPsyM8?list=PLl0QcnA1m_krT825ybzqf9Mds255feIkh\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://musee.kr/media/posts/29/fr_1447.jpg",
             "author": {
                 "name": "Paradise"
@@ -54,15 +70,15 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2021-01-15T22:31:20-05:00",
+            "date_modified": "2021-04-07T10:38:14-04:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-09/",
             "url": "https://musee.kr/michelles-artstory-09/",
             "title": "Michelle&#x27;s ArtStory 09",
             "summary": "[미쉘쌤의미술이야기 09] 곰브리치서양미술사 8장 혼돈기의 중세미술, The Met 유니콘 타피스트리 6세기에서 11세기까지&hellip;",
-            "content_html": "<p>[미쉘쌤의미술이야기 09] 곰브리치서양미술사 8장 혼돈기의 중세미술,  The Met 유니콘 타피스트리</p>\n<p>6세기에서 11세기까지 중세의 혼돈기, 그렇지만 그 칡흑같은 어둠속에서도 찬란히 빛을 발했던 미술 이야기와 미술가들 그리고 클로이스터 뮤지엄 The Met의 World Best Known Masterpiece ‘유니콘 타피스트리’ The Unicorn Tapistries의 매혹적인 이야기를 들려 드립니다.</p>\n<p> </p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/jJxGM2SeVIY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "content_html": "<p>[미쉘쌤의미술이야기 09] 곰브리치서양미술사 8장 혼돈기의 중세미술,  The Met 유니콘 타피스트리</p>\n<p>6세기에서 11세기까지 중세의 혼돈기, 그렇지만 그 칡흑같은 어둠속에서도 찬란히 빛을 발했던 미술 이야기와 미술가들 그리고 클로이스터 뮤지엄 The Met의 World Best Known Masterpiece ‘유니콘 타피스트리’ The Unicorn Tapistries의 매혹적인 이야기를 들려 드립니다.</p>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/jJxGM2SeVIY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://musee.kr/media/posts/28/fr_1066_full.jpg",
             "author": {
                 "name": "Paradise"
@@ -70,15 +86,15 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2020-12-12T21:39:15-05:00",
+            "date_modified": "2021-04-07T10:38:05-04:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-08/",
             "url": "https://musee.kr/michelles-artstory-08/",
             "title": "Michelle&#x27;s ArtStory 08",
             "summary": "[미쉘쌤의 미술이야기 08] 곰브리치서양미술사 7장 동방의 미술, The Met 중국정원 이야기 2세기에서&hellip;",
-            "content_html": "<p>[미쉘쌤의 미술이야기 08] 곰브리치서양미술사 7장 동방의 미술, The Met 중국정원 이야기</p>\n<p>2세기에서 13세기까지 천년의 격동기에 이슬람과 중국의 미술은 어떤 이야기를 그려내는지 살펴보고 메트로폴리탄 뮤지엄의 17세기 중국정원 (The Astor Chinese Garden Court)의 이야기로 이어갑니다.</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/pXDTPJraMlY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "content_html": "<p>[미쉘쌤의 미술이야기 08] 곰브리치서양미술사 7장 동방의 미술, The Met 중국정원 이야기</p>\n<p>2세기에서 13세기까지 천년의 격동기에 이슬람과 중국의 미술은 어떤 이야기를 그려내는지 살펴보고 메트로폴리탄 뮤지엄의 17세기 중국정원 (The Astor Chinese Garden Court)의 이야기로 이어갑니다.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/pXDTPJraMlY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://musee.kr/media/posts/27/fr_788.jpg",
             "author": {
                 "name": "Paradise"
@@ -86,14 +102,14 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2020-11-14T18:56:48-05:00",
+            "date_modified": "2020-12-12T21:42:40-05:00"
         },
         {
             "id": "https://musee.kr/my-arttalk-05/",
             "url": "https://musee.kr/my-arttalk-05/",
             "title": "My ArtTalk #05",
-            "summary": "다, 그림이다 손철주 이주은 지음그림 읽기와 쓰기를 이처럼 품위있게 이야기하는 책을 발견하기란&hellip;",
+            "summary": "다, 그림이다 손철주 이주은 지음 그림 읽기와 쓰기를 이처럼 품위있게 이야기하는 책을&hellip;",
             "content_html": "<h5><span class=\"_8Pl3R\">다, 그림이다 <br>손철주 이주은 지음</span></h5>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/26/gallery/MyArtTalk05-01.jpg\" data-size=\"3024x3569\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/26/gallery/MyArtTalk05-01-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"906\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/26/gallery/MyArtTalk05-02.jpg\" data-size=\"3024x2377\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/26/gallery/MyArtTalk05-02-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"604\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/26/gallery/MyArtTalk05-03.jpg\" data-size=\"2923x3151\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/26/gallery/MyArtTalk05-03-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"828\"></a></figure>\n</div></div>\n<p><span class=\"_8Pl3R\">그림 읽기와 쓰기를 이처럼 품위있게 이야기하는 책을 발견하기란 쉽지않다. 품위는 삶을 담아내는 깊이와 태도를 말한다. </span></p>\n<p><span class=\"_8Pl3R\"><br>동서양 미술의 완전한 만남 ‘다, 그림이다’는 그래서 다, 예술이다! 처럼 읽히는 책이다.<br>겉표지의 전혀 다른 느낌의 그림 두점: 윤두서 &lt; 바위에 기대어 달을 보다&gt;와 헨리 윌리스의 &lt;채터톤&gt; 은 전통회화와 서양미술이 어떻게 완전하게 마주하게 될지 설레는 눈과 마음은 이내 책장을 열게할 만큼 충분히 매력적이다.</span></p>\n<p><span class=\"_8Pl3R\">손철주의 유려한 문장을 따라가다 보면 그의 해박한 동양고전으로 풀어내는 우리의 전통회화가 한결 친근하게 다가오고 그만의 내러티브에 빠져들게 한다. 서양미술에 대한 깊은 지식과 삶에 대한 통찰 위에서 글쓰기를 하는 이주은. 그녀의 세련되고 감각적인 글쓰기는 책과 음악 그리고 영화의 이야기로 확장되며 책을 읽는 즐거움을 더해준다.<br><br>소설가 김훈이 쓴 서문 ‘죽은 새들을 곡 哭함’ 은 화폭과 현실의 관계를 성찰하게 한다. 솔거가 ‘황룡사 벽에 그린 노송도’를 들여다 보며 그의 사유와 언어는 낙원을 그린 절벽에 부딪쳐 죽은 새들을 응시하고 있다.<br><br>자고 나면 날마나 마주하게 되는 삶의 모습들: 그리움, 유혹, 성공과 좌절, 내가 누구인가, 나이 … 에 대해서 미술은 어떻게 그리고 있는지 잔뜩 기대해 볼만한 책.<br>손철주 이주은 두사람의 감성이 베어나는 글쓰기와 탁월하게 그림을 선택하고 읽어 내려가는 안목에 공감 또 공감하며 읽어내려가는 책이다.</span></p>",
             "image": "https://musee.kr/media/posts/26/MyArtTalk05-01.jpg",
             "author": {
@@ -102,15 +118,15 @@
             "tags": [
                    "ArtTalk"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2020-10-22T18:55:13-04:00",
+            "date_modified": "2020-10-22T19:53:50-04:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-07/",
             "url": "https://musee.kr/michelles-artstory-07/",
             "title": "Michelle&#x27;s ArtStory 07",
-            "summary": "[미쉘쌤의 미술이야기 07] 곰브리치서양미술사 6장 로마와 비잔티움의 미술, 메트로폴리탄뮤지엄 더 클로이스터5세기에서 13세기까지&hellip;",
-            "content_html": "<h4>[미쉘쌤의 미술이야기 07] 곰브리치서양미술사 6장 로마와 비잔티움의 미술, 메트로폴리탄뮤지엄 더 클로이스터</h4>\n<p>5세기에서 13세기까지 로마와 비잔티움의 미술이 어떻게 각자의 길을 향해 떠나고 있는지, 기로에 서 있는 미술이야기와 클로이스터 The Met Cloisters 뮤지엄의 고즈넉한 중세의 시간과 공간으로 초대 합니다.</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/x-6pXjbgQv8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "summary": "[미쉘쌤의 미술이야기 07] 곰브리치서양미술사 6장 로마와 비잔티움의 미술, 메트로폴리탄뮤지엄 더 클로이스터 5세기에서&hellip;",
+            "content_html": "<h4>[미쉘쌤의 미술이야기 07] 곰브리치서양미술사 6장 로마와 비잔티움의 미술, 메트로폴리탄뮤지엄 더 클로이스터</h4>\n<p>5세기에서 13세기까지 로마와 비잔티움의 미술이 어떻게 각자의 길을 향해 떠나고 있는지, 기로에 서 있는 미술이야기와 클로이스터 The Met Cloisters 뮤지엄의 고즈넉한 중세의 시간과 공간으로 초대 합니다.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/x-6pXjbgQv8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://musee.kr/media/posts/25/fr_4400.jpg",
             "author": {
                 "name": "Paradise"
@@ -118,15 +134,15 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2020-10-18T00:49:18-04:00",
+            "date_modified": "2020-11-14T18:55:58-05:00"
         },
         {
             "id": "https://musee.kr/michelles-artstory-06/",
             "url": "https://musee.kr/michelles-artstory-06/",
             "title": "Michelle&#x27;s ArtStory 06",
             "summary": "[미쉘쌤의 미술이야기 06] 곰브리치서양미술사 5장 세계의 정복자들, 메트로폴리탄뮤지엄의 로마의 검은방벽화 기원 후&hellip;",
-            "content_html": "<h4>[미쉘쌤의 미술이야기 06] 곰브리치서양미술사 5장 세계의 정복자들, 메트로폴리탄뮤지엄의 로마의 검은방벽화</h4>\n<p> </p>\n<p>기원 후 1세기에서 4세기까지 로마제국 그리고 이 제국의 영향을 받은 불교와 유태교 그리고 기독교 미술과 메트로폴리탄 뮤지엄의 로마제국의 검은방 벽화 이야기를 이어갑니다.<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/NjUeJCsjZ38\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "content_html": "<h4>[미쉘쌤의 미술이야기 06] 곰브리치서양미술사 5장 세계의 정복자들, 메트로폴리탄뮤지엄의 로마의 검은방벽화</h4>\n<p> </p>\n<p>기원 후 1세기에서 4세기까지 로마제국 그리고 이 제국의 영향을 받은 불교와 유태교 그리고 기독교 미술과 메트로폴리탄 뮤지엄의 로마제국의 검은방 벽화 이야기를 이어갑니다.<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/NjUeJCsjZ38\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://musee.kr/media/posts/24/fr_4080.jpg",
             "author": {
                 "name": "Paradise"
@@ -134,14 +150,14 @@
             "tags": [
                    "Michelle&#x27;s Artstory"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2020-10-01T19:11:22-04:00",
+            "date_modified": "2020-10-18T00:49:30-04:00"
         },
         {
             "id": "https://musee.kr/my-arttalk-04-2/",
             "url": "https://musee.kr/my-arttalk-04-2/",
             "title": "My ArtTalk #04",
-            "summary": "나의 미술 이야기 #4&lt;The Met 전시리뷰: 발로통, 거트루트 스타인, 미드나이트 인 파리&gt;&hellip;",
+            "summary": "나의 미술 이야기 #4 &lt;The Met 전시리뷰: 발로통, 거트루트 스타인, 미드나이트 인&hellip;",
             "content_html": "<h4>나의 미술 이야기 #4</h4>\n<p>&lt;The Met 전시리뷰: 발로통, 거트루트 스타인, 미드나이트 인 파리&gt;</p>\n<p>-Félix Vallotton - painter of disquiet<span class=\"text_exposed_show\"><br>2019년 10월- 2020년 1월</span></p>\n<div class=\"text_exposed_show\">\n<p>-펠릭스 발로통, 불안을 그린 화가</p>\n<p>세기말 fin de ciècle 파리는 벨 에포크 (Belle Époque 아름다운 시절 1890-1914)시대의 찬란한 풍요로움과 그 뒤에 드리워진 권태와 염세주의 그리고 퇴폐적인 분위기로 출렁인다.<br>스위스에서 태어나고 파리에서 수학한 펠릭스 발로통 (Félix Vallotton 1865-1925)은 이시대의 파리의 면면을 자신만의 독특한 색채와 목소리로 기록해 나간다. 마치 스냅샷처럼.</p>\n<p>이 전시는 화가와 판화가로서 역량을 유감없이 드러낸 시기의 작품들을 모았다. 초상화와 눈부신 빛을 담은 풍경화 그리고 시대의 심리적 긴장을 엿볼수 있는 실내의 온갖 이야기들은 세기말 파리를 사로잡은 극단적 심미주의 radical aesthetics 를 우리앞에 펼쳐 보인다. 그가 그려내는 냉소와 빈정거림 그리고 뒤틀린 풍자와 유머는 싑사리 잊혀지지 않을 만큼 강렬하다.</p>\n<p>전시의 하이라이트는 단연 피카소와 발로통이 그린 거트루트 스타인 (Gertrude Stein 1874-1946) 의 초상화를 최초로 나란히 만날수 있다는 것. 피카소와 발로통을 위해 앉아있는 그녀, 거트루트 스타인은 미국태생의 시인이자 작가이며 콜렉터이자 살로니에르 Salonière 이다. 파리의 살롱문화를 제대로 향유하고 살아낸, 현대의 수많은 예술가들의 진정한 Patron(후원자)이라고 할수 있다.</p>\n<p>젊은 피카소(Pablo Picasso 1881-1973)가 그린 그녀의 초상화는 대담하고 힘찬 붓터치가 매우 인상적인데, 얼굴의 표현에서 우리는 1년뒤 ‘아비뇽의 처녀들’의 이미지를 읽어낼수 있다. 이 초상화는 그녀의 유언을 통해 메트에 기증되었으며 초기의 현대미술사상 가장 유명한 초상화가 되었다. 그런가 하면 발로통의 초상화는 매우 정직해 보인다. 평범하고 평면적인 표현이 오히려 우리를 그녀에게로 이끈다. 전혀 다른 방식으로 그려낸 초상화 앞에서 우리는 모두 너 나 할 것 없이 그녀가 궁금해지기 시작한다. 우디알렌의 영화 ‘Midnight in Paris’ 가 자연스럽게 떠오를 즈음, 초상화 앞의 우리는 파리의 낭만속으로 잠시 여행을 다녀오는것도 즐거우리라.</p>\n<p><br>전시가 끝나자 코로나 시대가 도래했다… 세기말의 불안이 한 세기를 지나서 다시 우리에게 다가온것 처럼. 이제서야 이 사려깊은 작가의 눈부신 빛을 담은 풍경화가 제대로 보이기 시작한다.</p>\n<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/01.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://musee.kr/media/posts/23/responsive/01-xs.jpg 300w ,https://musee.kr/media/posts/23/responsive/01-sm.jpg 480w ,https://musee.kr/media/posts/23/responsive/01-md.jpg 768w ,https://musee.kr/media/posts/23/responsive/01-lg.jpg 1024w\"  alt=\"\">\n<figcaption >Félix Vallotton - painter of disquiet 10/<span class=\"text_exposed_show\">2019 ~ 01/2020</span></figcaption>\n</figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/02.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/02-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/03.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/03-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/04.jpg\" data-size=\"720x960\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/04-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/05.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/05-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/06-2.jpg\" data-size=\"720x853\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/06-2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"853\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/07.jpg\" data-size=\"720x960\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/07-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/08.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/08-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/09.jpg\" data-size=\"720x960\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/09-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/10.jpg\" data-size=\"720x960\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/10-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/11.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/11-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/12.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/12-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/13.jpg\" data-size=\"720x960\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/13-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/14.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/14-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/15.jpg\" data-size=\"720x960\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/15-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/16.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/16-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/17.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/17-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/18.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/18-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://musee.kr/media/posts/23/gallery/19.jpg\" data-size=\"960x720\"><img loading=\"lazy\" src=\"https://musee.kr/media/posts/23/gallery/19-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n</div>",
             "image": "https://musee.kr/media/posts/23/01-2.jpg",
             "author": {
@@ -150,24 +166,8 @@
             "tags": [
                    "ArtTalk"
             ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
-        },
-        {
-            "id": "https://musee.kr/art-story-05/",
-            "url": "https://musee.kr/art-story-05/",
-            "title": "Michelle&#x27;s ArtStory 05",
-            "summary": "[미쉘쌤의미술이야기 05] 헬레니즘 미술과 메트의 헬레니즘 벽화 기원전 4세기에서 기원후 5세기까지의 그리스와&hellip;",
-            "content_html": "<h4>[미쉘쌤의미술이야기 05] 헬레니즘 미술과 메트의 헬레니즘 벽화</h4>\n<p> </p>\n<p>기원전 4세기에서 기원후 5세기까지의 그리스와 그리스의 세계 그리고 헬레니즘 미술을 이야기 합니다. 그런가 하면 메트로 폴리탄 뮤지엄의 로마시대의 별장안 헬레니즘 벽화가 있는 방으로 초대합니다~</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/vARxv-iFRHA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
-            "image": "https://musee.kr/media/posts/18/fr_3676_size880.jpg",
-            "author": {
-                "name": "Paradise"
-            },
-            "tags": [
-                   "Michelle&#x27;s Artstory"
-            ],
-            "date_published": "2021-04-08T12:15:51-04:00",
-            "date_modified": "2021-04-08T12:15:51-04:00"
+            "date_published": "2020-09-17T23:01:31-04:00",
+            "date_modified": "2020-09-17T23:06:45-04:00"
         }
     ]
 }
